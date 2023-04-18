@@ -1,0 +1,10 @@
+# Standards: 1.2
+---
+- name: Install application deb
+  apt:
+    deb: "{{ headlamp_package }}"
+    state: present
+  tags:
+    - headlamp
+
+...

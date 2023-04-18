@@ -1,0 +1,13 @@
+# Standards: 1.2
+---
+# @var headlamp_version:description: Version for the package
+# renovate: datasource=github-releases depName=headlamp-k8s/headlamp
+headlamp_version: 0.16.0
+
+# @var headlamp_arch:description: Architecture for the package
+headlamp_arch: amd64
+
+# @var headlamp_package:description: Download URL for the package to install
+headlamp_package: "https://github.com/headlamp-k8s/headlamp/releases/download/v{{ headlamp_version }}/headlamp_{{ headlamp_version }}-1_{{ headlamp_arch }}.deb"
+
+...
