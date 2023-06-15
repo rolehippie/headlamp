@@ -2,7 +2,7 @@
 ---
 # @var headlamp_version:description: Version for the package
 # renovate: datasource=github-releases depName=headlamp-k8s/headlamp
-headlamp_version: 0.17.1
+headlamp_version: 0.18.0
 
 # @var headlamp_arch:description: Architecture for the package
 headlamp_arch: amd64
