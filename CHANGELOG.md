@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/rolehippie/headlamp/compare/v1.1.1...v1.2.0) (2023-06-19)
+
+
+### Features
+
+* **deps:** update dependency headlamp-k8s/headlamp to v0.18.0 ([d798759](https://github.com/rolehippie/headlamp/commit/d7987599b260cc7d06cec6144d3f4bfbfc73806d))
+
 ## [1.1.1](https://github.com/rolehippie/headlamp/compare/v1.1.0...v1.1.1) (2023-05-22)
 
 
