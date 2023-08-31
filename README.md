@@ -62,7 +62,7 @@ Version for the package
 #### Default value
 
 ```YAML
-headlamp_version: 0.19.0
+headlamp_version: 0.19.1
 ```
 
 ## Discovered Tags
