@@ -7,6 +7,12 @@
 [![License: Apache-2.0](https://img.shields.io/github/license/rolehippie/headlamp)](https://github.com/rolehippie/headlamp/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/role-rolehippie.headlamp-blue)](https://galaxy.ansible.com/rolehippie/headlamp)
 
+> [!IMPORTANT]
+> This role have been archived because of the lack of maintenance and because
+> we are not actively using it anymore. If you are using this role feel free
+> to fork and maintain it on your own. Maybe we will unarchive this repository
+> in the future at some point, maybe not... Who knows...
+
 Ansible role to install headlamp Kubernetes interface.
 
 ## Sponsor
